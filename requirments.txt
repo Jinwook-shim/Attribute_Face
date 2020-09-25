@@ -1,0 +1,6 @@
+numpy==1.19.1
+opencv-python==4.4.0.42
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
+tqdm==4.48.2
+
